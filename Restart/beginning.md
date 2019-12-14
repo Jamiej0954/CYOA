@@ -1,1 +1,0 @@
-One morning you are woken up by a strange noise outside, and you went 
