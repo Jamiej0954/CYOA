@@ -1,1 +1,1 @@
-Welcome you have now traveled back into the Dinosaur Period. 
+Welcome you have now traveled back into the Dinosaur Period.
