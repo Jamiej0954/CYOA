@@ -8,3 +8,5 @@ For this project, my partner and I created an adeventure called "Wandering in Ti
 Click [here](beginning.md) to start your adventure.
 
 Click [here](https://docs.google.com/drawings/d/1uCGRoczc5zL_yK9jGEFET4nMp5Ik8qjioluQ4MpyNEQ/edit?usp=sharing) to see the diagram for this project.
+
+Made by [Jamie](https://github.com/Jamiej0954) and [Jenny](https://github.com/JennyC7373)
