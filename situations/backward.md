@@ -1,5 +1,5 @@
 ### You've arrive into the dinosuars' period!
-![Dinosurs' Period](../images/dino pd.jpg)
+![Dinosurs' Period](../images/dino.jpg)
 
 [You choose to explore](explore.md)
 
