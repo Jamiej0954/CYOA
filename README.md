@@ -1,7 +1,7 @@
 ### Wandering in Time
 -------
 ##### Description
-In this project, we are assign to create our own adventure, using what we have already learned about Git, Github, and linking file. In linking file, we learned about abosulte and relative file path, using what we already know, we link differnt file together to create a story.
+In this project, we are assign to create our own adventure, using what we have already learned about Git, Github, and linking file. In linking file, we learned about abosulte and relative file path, using what we already know, we link different file together to create a story.
 
 For this project, my partner and I created an adeventure called "Wandering in Time", where you either choose to go backward or forward in time.
 
