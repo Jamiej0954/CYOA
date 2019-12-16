@@ -1,4 +1,4 @@
-The alien push you into a dark room and disect you for research purposes.
+The alien push you into a dark room and dissect you for research purposes.
 
 ![death](../images/death.png)
 
