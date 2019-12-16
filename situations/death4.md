@@ -2,4 +2,4 @@ You close your eyes and ignore your hunger. Eventually, you start expericing hal
 
 ![death](../images/death.png)
 
-[Restart](../beginng.md)
+[Restart](../beginnig.md)
