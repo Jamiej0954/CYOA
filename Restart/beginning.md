@@ -1,7 +1,0 @@
-On a typical sunny morning, you wake up and goes to school as usual, but you got a feeling that something is about to happen. You walk out the front door, and to your surprise, there's a package near your door. You bring it in, and open it. You found a weird clock, and there's a note of instruction of how to use the clock. While examining the clock, you came across two buttons: backward and forward. You then realize that it's a time machine, but you look at the time and saw that you're almost late for school. You have the choice to choose to either test the time machine or go to school. You choose to:
-
-Not go to school and decide to travel [backward in time](../Backward/dinosaur.md)
-
-Not go to school and decide to travel [forward in time](../Forward/lab.md)
-
-Be a good student and [go to school](../Stay/home.md)
