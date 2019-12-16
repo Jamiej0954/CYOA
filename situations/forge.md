@@ -1,6 +1,6 @@
 After you arrive into the dinosaurs' period, you are hungry. Luckily, you found red and blue berries.
 
-![Berries](berries.jpg)
+![Berries](../images/berries.jpg)
 
 [You choose to eat the red berries first](death3.md)
 

@@ -1,5 +1,5 @@
-### The berries that you just ate is poisonous, and your consciousness start fading away.
+The berries that you just ate is poisonous, and your consciousness start fading away.
 
-![death](death.png)
+![death](../images/death.png)
 
 [Restart](../beginning.md)
